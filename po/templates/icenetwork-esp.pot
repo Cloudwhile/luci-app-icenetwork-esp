@@ -1,0 +1,164 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "IceNetwork ESP"
+msgstr ""
+
+msgid "Collect network metrics, guard ua3f service, and report all telemetry to ESP."
+msgstr ""
+
+msgid "Core Settings"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Server Address"
+msgstr ""
+
+msgid "Server Port"
+msgstr ""
+
+msgid "ESP API Path"
+msgstr ""
+
+msgid "ESP Authentication"
+msgstr ""
+
+msgid "Auth Mode"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Token Header"
+msgstr ""
+
+msgid "HMAC-SHA256"
+msgstr ""
+
+msgid "Token Header Name"
+msgstr ""
+
+msgid "Token Value"
+msgstr ""
+
+msgid "HMAC Signature Header Name"
+msgstr ""
+
+msgid "HMAC Timestamp Header Name"
+msgstr ""
+
+msgid "HMAC Secret"
+msgstr ""
+
+msgid "Collect Interval (seconds)"
+msgstr ""
+
+msgid "Ping Detection"
+msgstr ""
+
+msgid "Ping Target"
+msgstr ""
+
+msgid "Ping Count"
+msgstr ""
+
+msgid "Ping Timeout Per Probe (seconds)"
+msgstr ""
+
+msgid "Timeout Trigger Packet Loss (%)"
+msgstr ""
+
+msgid "Command on Ping Timeout"
+msgstr ""
+
+msgid "Speed Test"
+msgstr ""
+
+msgid "Enable Speed Test"
+msgstr ""
+
+msgid "Speed Test URL"
+msgstr ""
+
+msgid "Speed Test Timeout (seconds)"
+msgstr ""
+
+msgid "Speed Test Interval (seconds)"
+msgstr ""
+
+msgid "UA3F Watchdog"
+msgstr ""
+
+msgid "Auto Start ua3f When Stopped"
+msgstr ""
+
+msgid "ua3f Service Name"
+msgstr ""
+
+msgid "IceNetwork ESP Status"
+msgstr ""
+
+msgid "Realtime Status"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Last update"
+msgstr ""
+
+msgid "Collect enabled"
+msgstr ""
+
+msgid "Endpoint"
+msgstr ""
+
+msgid "Auth mode"
+msgstr ""
+
+msgid "Auth state"
+msgstr ""
+
+msgid "Latency avg (ms)"
+msgstr ""
+
+msgid "Packet loss (%)"
+msgstr ""
+
+msgid "Network reachable"
+msgstr ""
+
+msgid "Speed (kbps)"
+msgstr ""
+
+msgid "Speed test status"
+msgstr ""
+
+msgid "ua3f service"
+msgstr ""
+
+msgid "ua3f running"
+msgstr ""
+
+msgid "ua3f restarted in last cycle"
+msgstr ""
+
+msgid "Timeout action triggered"
+msgstr ""
+
+msgid "Timeout action exit code"
+msgstr ""
+
+msgid "Last post success"
+msgstr ""
+
+msgid "Last post error"
+msgstr ""
+
+msgid "Waiting for first report..."
+msgstr ""
+
+msgid "Failed to fetch status"
+msgstr ""

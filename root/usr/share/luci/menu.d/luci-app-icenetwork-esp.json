@@ -1,0 +1,28 @@
+{
+  "admin/services/icenetwork_esp": {
+    "title": "IceNetwork ESP",
+    "order": 90,
+    "action": {
+      "type": "view",
+      "path": "icenetwork-esp"
+    },
+    "depends": {
+      "acl": [
+        "luci-app-icenetwork-esp"
+      ]
+    }
+  },
+  "admin/services/icenetwork_esp_status": {
+    "title": "IceNetwork ESP Status",
+    "order": 91,
+    "action": {
+      "type": "view",
+      "path": "icenetwork-esp-status"
+    },
+    "depends": {
+      "acl": [
+        "luci-app-icenetwork-esp"
+      ]
+    }
+  }
+}

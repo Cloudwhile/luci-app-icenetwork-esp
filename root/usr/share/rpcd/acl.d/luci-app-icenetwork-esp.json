@@ -1,0 +1,30 @@
+{
+  "luci-app-icenetwork-esp": {
+    "description": "Grant access to IceNetwork ESP LuCI pages",
+    "read": {
+      "ubus": {
+        "uci": [
+          "get",
+          "changes"
+        ]
+      },
+      "uci": [
+        "icenetwork_esp"
+      ]
+    },
+    "write": {
+      "ubus": {
+        "uci": [
+          "add",
+          "delete",
+          "set",
+          "commit",
+          "apply"
+        ]
+      },
+      "uci": [
+        "icenetwork_esp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,164 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "IceNetwork ESP"
+msgstr "IceNetwork ESP"
+
+msgid "Collect network metrics, guard ua3f service, and report all telemetry to ESP."
+msgstr "Collect network metrics, guard ua3f service, and report all telemetry to ESP."
+
+msgid "Core Settings"
+msgstr "Core Settings"
+
+msgid "Enable"
+msgstr "Enable"
+
+msgid "Server Address"
+msgstr "Server Address"
+
+msgid "Server Port"
+msgstr "Server Port"
+
+msgid "ESP API Path"
+msgstr "ESP API Path"
+
+msgid "ESP Authentication"
+msgstr "ESP Authentication"
+
+msgid "Auth Mode"
+msgstr "Auth Mode"
+
+msgid "None"
+msgstr "None"
+
+msgid "Token Header"
+msgstr "Token Header"
+
+msgid "HMAC-SHA256"
+msgstr "HMAC-SHA256"
+
+msgid "Token Header Name"
+msgstr "Token Header Name"
+
+msgid "Token Value"
+msgstr "Token Value"
+
+msgid "HMAC Signature Header Name"
+msgstr "HMAC Signature Header Name"
+
+msgid "HMAC Timestamp Header Name"
+msgstr "HMAC Timestamp Header Name"
+
+msgid "HMAC Secret"
+msgstr "HMAC Secret"
+
+msgid "Collect Interval (seconds)"
+msgstr "Collect Interval (seconds)"
+
+msgid "Ping Detection"
+msgstr "Ping Detection"
+
+msgid "Ping Target"
+msgstr "Ping Target"
+
+msgid "Ping Count"
+msgstr "Ping Count"
+
+msgid "Ping Timeout Per Probe (seconds)"
+msgstr "Ping Timeout Per Probe (seconds)"
+
+msgid "Timeout Trigger Packet Loss (%)"
+msgstr "Timeout Trigger Packet Loss (%)"
+
+msgid "Command on Ping Timeout"
+msgstr "Command on Ping Timeout"
+
+msgid "Speed Test"
+msgstr "Speed Test"
+
+msgid "Enable Speed Test"
+msgstr "Enable Speed Test"
+
+msgid "Speed Test URL"
+msgstr "Speed Test URL"
+
+msgid "Speed Test Timeout (seconds)"
+msgstr "Speed Test Timeout (seconds)"
+
+msgid "Speed Test Interval (seconds)"
+msgstr "Speed Test Interval (seconds)"
+
+msgid "UA3F Watchdog"
+msgstr "UA3F Watchdog"
+
+msgid "Auto Start ua3f When Stopped"
+msgstr "Auto Start ua3f When Stopped"
+
+msgid "ua3f Service Name"
+msgstr "ua3f Service Name"
+
+msgid "IceNetwork ESP Status"
+msgstr "IceNetwork ESP Status"
+
+msgid "Realtime Status"
+msgstr "Realtime Status"
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "Last update"
+msgstr "Last update"
+
+msgid "Collect enabled"
+msgstr "Collect enabled"
+
+msgid "Endpoint"
+msgstr "Endpoint"
+
+msgid "Auth mode"
+msgstr "Auth mode"
+
+msgid "Auth state"
+msgstr "Auth state"
+
+msgid "Latency avg (ms)"
+msgstr "Latency avg (ms)"
+
+msgid "Packet loss (%)"
+msgstr "Packet loss (%)"
+
+msgid "Network reachable"
+msgstr "Network reachable"
+
+msgid "Speed (kbps)"
+msgstr "Speed (kbps)"
+
+msgid "Speed test status"
+msgstr "Speed test status"
+
+msgid "ua3f service"
+msgstr "ua3f service"
+
+msgid "ua3f running"
+msgstr "ua3f running"
+
+msgid "ua3f restarted in last cycle"
+msgstr "ua3f restarted in last cycle"
+
+msgid "Timeout action triggered"
+msgstr "Timeout action triggered"
+
+msgid "Timeout action exit code"
+msgstr "Timeout action exit code"
+
+msgid "Last post success"
+msgstr "Last post success"
+
+msgid "Last post error"
+msgstr "Last post error"
+
+msgid "Waiting for first report..."
+msgstr "Waiting for first report..."
+
+msgid "Failed to fetch status"
+msgstr "Failed to fetch status"
